@@ -29,9 +29,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Arie+Wira+Saputra">「 Google Me 」</a>
+    <a href="https://jurnal.usk.ac.id/JRE/article/view/26910/18_4_1_199_207">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer from <b>Batam - Indonesia</b> 」
+    「 I am a full stack Programmer developer from <b>Batam - Indonesia</b> 」
     <br>
     <br>
   </samp>

@@ -91,8 +91,7 @@
 <br/>
 
 ## Top Open Source -
-[![Iventory Management](https://github-readme-stats.vercel.app/api/pin/?username=ariwirasaputra&repo=Inventory-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AriWiraSaputra/
-Inventory-Management)
+[![Iventory Management](https://github-readme-stats.vercel.app/api/pin/?username=ariwirasaputra&repo=Inventory-Management&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AriWiraSaputra/Inventory-Management)
 
 
 <p align="left">

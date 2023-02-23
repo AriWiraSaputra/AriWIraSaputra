@@ -41,7 +41,7 @@
  <a href="http://hoa.my.id/Portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ari Wira Saputra" />
  </a>
- <a href="https://www.linkedin.com/in/ari-saputra-121383170" target="_blank">
+ <a href="https://www.linkedin.com/in/ariwirasaputra/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ari Wira Saputra"/>
  </a>
  <a href="https://dev.to/ariwirasaputra" target="_blank">
